@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artemtin&label=Profile%20views&color=0e75b6&style=flat" alt="artemtin" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://t.me/tinartem
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
